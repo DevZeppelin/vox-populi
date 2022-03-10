@@ -39,7 +39,8 @@ function App() {
       </div>
 
       <BlackBanner
-        text="Nuestras aplicaciones y sistemas pueden aportar valor tecnológico e
+        text="Aplicaciones y sistemas 
+        construídos por la comunidad pueden aportar valor tecnológico e
       intelectual a cualquiera de los poderes polìticos actuales"
       />
 

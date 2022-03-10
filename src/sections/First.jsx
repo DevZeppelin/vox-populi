@@ -7,16 +7,6 @@ const First = () => {
         ¿Como la tecnología y el código abierto pueden mejorar la política y el
         manejo de un país?
       </h2>
-      <p className="p-4 px-16 text-center italic">
-        <span className="font-bold text-orangi">Aclaración:</span> Todos los
-        sitemas, aplicaciones y plataformas dispuestas en esta web, deben
-        funcionar de manera integrada, perteneciendo básicamente a un "Sistema
-        madre" capaz de conectar y comunicar a todos los sistemas inferiores.
-        Este sistema principal no puede ser centralizado ni depender de un grupo
-        reducido de personas ni de una compañía, sino que cualquier cambio debe
-        ser consensuado por una mayoría diversificada y sin intereses
-        concentrados.
-      </p>
       <div className="grid grid-cols-1 md:grid-cols-4 md:px-12">
         <MainCard
           children="Poder Ejecutivo"
@@ -39,6 +29,12 @@ const First = () => {
           text="Este espacio propone unir a los ciudadanos en pos de idear y proponer nuevas herramientas que ayuden a mejorar la calidad de vida de todos, y también a la gestión del país. A través de eventos didácticos se buscará talentos dispuestos a aportar intelecto para cosntruir y mejorar las herramientas."
         />
       </div>
+      <p className="p-4 px-16 text-center italic">
+        <span className="font-bold text-orangi">Aclaración: </span> 
+         Estos sistemas DEBEN ser transparentes. Los cambios deben ser consensuados por los desarrolladores, y no pueden ser centralizados ni depender de un grupo
+        reducido de personas o compañías con intereses
+        concentrados.
+      </p>
     </>
   );
 };
