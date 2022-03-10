@@ -26,15 +26,15 @@ function App() {
             descentralizados serán los sistemas y más democráticos serán los
             cambios.
           </p>
-          <h2 className="font-bold italic mt-4 text-xl">Mi Misión:</h2>
+          <h2 className="font-bold italic mt-4 text-xl">La Misión:</h2>
           <p className="md:mx-6">
             Lograr desarrollar sistemas funcionales capaces de solucionar
             problemas actuales y mejorar la gestión de los recursos del país y
             la toma de decisiones políticas.
           </p>
         </div>
-        <div className="w-2/5 flex justify-center mx-auto pb-4 md:pr-16 md:pb-8">
-          <img src="/logo.png" className="text-orangi" />
+        <div className="w-3/4 md:w-2/5 flex justify-center mx-auto  pb-4 md:pr-16 md:pb-8">
+          <img src="/logo.png" className="text-orangi animate-pulse" />
         </div>
       </div>
 

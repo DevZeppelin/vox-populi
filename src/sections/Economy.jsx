@@ -18,7 +18,7 @@ const Third = () => {
           text="Siendo que el peso argentino ha perdido la confianza de los ciudadanos y del mundo, sería importante recuperar reservas de oro, y lo demás migrar a una moneda deflacionaria como lo es Bitcoin, ya que el trabajo de todos agrandaría ese tesoro, y con un tesoro más grande mayor será la confianza y la presencia del país en la Geopolítica."
         />
         <MainCard
-          children="Emisión Monetaria (Impresiòn de billetes)"
+          children="Emisión Monetaria (Impresión de billetes)"
           src="/p-ejecutivo.png"
           text="Una vez acomodada la administración financiera del país, será más fácil controlar la emisión de billetes y demostrar al ciudadano que se comienza a respetar al peso argentino al hacer uso responsable del manejo del mismo. Una vez logrado una buena base de reservas, el peso argentino podría respaldarse en el total de la reserva y mientras esta aumente de valor, el peso argentino aumentará con ella."
         />

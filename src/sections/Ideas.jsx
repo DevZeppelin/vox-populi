@@ -8,25 +8,25 @@ const Fourth = () => {
         Ideas de proyectos de Mejora
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-4 md:px-6">
+<MainCard
+  children="El mejor sistema educativo del mundo"
+  src="/p-ejecutivo.png"
+  text="Un  siostema educativo libre y eficiente en donde los amestros sean respetados y los alumnos sean felices aprendiendo y preparandose para el mundo real que nos toca afrontar en este siglo XXI"
+/>
+<MainCard
+  children="Bitcoin como Reserva/Tesoro Nacional"
+  src="/p-ejecutivo.png"
+  text="Pasar el total de reservas del país a la moneda digital Bitcoin, ya que es un bien escaso y en un futuro podría significar un poder económico global que posicione a la Argentina como potencia económica."
+/>
         <MainCard
           children="Deflación - Bitcoin como respaldo de los pesos"
           src="/p-ejecutivo.png"
           text="Al estar el total de la reserva del país en Bitcoin, cada peso argentino estaría respaldado por esta moneda, lo que haría imposible imprimir nuevos pesois, si no se ha aumentado la base monetaria de Bitcoin en reserva."
         />
         <MainCard
-          children="Bitcoin como Reserva/Tesoro Nacional"
-          src="/p-ejecutivo.png"
-          text="Pasar el total de reservas del país a la moneda digital Bitcoin, ya que es un bien escaso y en un futuro podría significar un poder económico global que posicione a la Argentina como potencia económica."
-        />
-        <MainCard
           children="Trabajos comunitarios por puntos"
           src="/p-ejecutivo.png"
           text="Sistema de puntos que incentive a los ciudadanos sin trabajo a conseguir puntos útiles y valioso para la sociedad, lo que a posterioir les permitirá conseguir trabajos, prestamos o confianza."
-        />
-        <MainCard
-          children="El mejor sistema educativo del mundo"
-          src="/p-ejecutivo.png"
-          text="Un  siostema educativo libre y eficiente en donde los amestros sean respetados y los alumnos sean felices aprendiendo y preparandose para el mundo real que nos toca afrontar en este siglo XXI"
         />
         <MainCard
           children="Ejército de programadores, Argentina potencia intelectual"

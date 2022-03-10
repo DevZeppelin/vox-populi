@@ -21,12 +21,12 @@ const First = () => {
         <MainCard
           children="Poder Ejecutivo"
           src="/p-ejecutivo.png"
-          text="Plataforma ayudada con Inteligencia Artificial, que estudia las decisiones políticas históricas del país y en base al criterio formado por los ciudadanos, sugiere y ayuda en la toma de decisiones políticas que acerquen al país al futuro dseseado."
+          text="Plataforma ayudada con Inteligencia Artificial, que estudia las decisiones políticas históricas del país y en base al criterio formado por los ciudadanos, sugiere y ayuda en la toma de decisiones políticas que acerquen al país al futuro deseado."
         />
         <MainCard
           children="Poder Legislativo"
           src="/p-legislativo.png"
-          text="Senado virtual en donde los usuarios(ciudadanos) se reúnen para debatir leyes, armas plebicitos, y decidir la importancia y prioridad de los problemas que necesitan resolverse primero. (Ver también el proyecto de simplificar leyes para que todos puedan participar en este sistema)"
+          text="Senado virtual en donde los usuarios(ciudadanos) se reúnen para debatir leyes, armar plebicitos, y decidir la importancia y prioridad de los problemas que necesitan resolverse primero. (Ver también el proyecto de simplificar leyes para que todos puedan participar en este sistema)"
         />
         <MainCard
           children="Poder Judicial"
